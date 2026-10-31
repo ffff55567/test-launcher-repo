@@ -1,0 +1,7 @@
+# Ngrok Tunnel Info
+# Обновлено: 2026-10-31 10:17:19 UTC
+
+NGROK_URL=https://necole-blitheful-deeper.ngrok-free.dev
+LOCAL_IP=172.18.0.39
+LOCAL_PORT=25640
+FULL_ADDRESS=https://necole-blitheful-deeper.ngrok-free.dev
